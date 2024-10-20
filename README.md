@@ -1,3 +1,3 @@
 # Meds
 
-#### [General Meds](https://jcoding09.github.io/meds/general/001.html)
+#### [General Meds](https://jcoding09.github.io/Meds/general/001.html)
